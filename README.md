@@ -14,6 +14,12 @@ AWS EC2 인스턴스에서 호스팅되는 SpringBoot 애플리케이션의 성�
 
 <br>
 
+## 🎨 구성도
+
+![image](https://github.com/user-attachments/assets/5211516d-eea4-427d-9c23-5083ed262ce5)
+
+<br>
+
 ## 🎯 주요 목표
 
 1. **피크 시간대의 높은 트래픽(평소의 10배)을 가정한 상황에서 시스템의 안정성 검증**
